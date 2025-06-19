@@ -2,6 +2,7 @@
 
 ## 2.0.0 under development
 
+- Enh #401: Delete `Db\InvalidArgumentException` and `Db\InvalidParamException`
 - Enh #320: Minor refactoring of `DDLQueryBuilder::getColumnDefinition()` method (@Tigrov)
 - Bug #320: Change visibility of `DDLQueryBuilder::getColumnDefinition()` method to `private` (@Tigrov)
 - Enh #321, #391: Implement and use `SqlParser` class (@Tigrov)
